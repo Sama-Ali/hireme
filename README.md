@@ -1,6 +1,6 @@
 # 💼 Hire me
 
-A full-stack job board built with Laravel. **hireMe** hekps job seekers browse vacancies, find the right fit, and apply CV, with AI feedback that highlights gaps in their CV and what to improve. **jobBackoffice** the management dashboard,gives admins and company owners the tools to manage the platform. Both apps share the same Eloquent models through the **shared** package.
+A full-stack job board built with Laravel. **hireMe** helps job seekers browse vacancies, find the right fit, and apply CV, with AI feedback that highlights gaps in their CV and what to improve. **jobBackoffice** is the management dashboard, gives admins and company owners the tools to manage the platform. Both apps share the same Eloquent models through the **shared** package.
 
 ## 📱 Apps
 
