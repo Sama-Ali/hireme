@@ -1,4 +1,4 @@
-<img width="1792" height="998" alt="image" src="https://github.com/user-attachments/assets/57f0315b-d70e-4895-a818-a2547c2bb6a9" /># 💼 Hire me
+# 💼 Hire me
 
 A full-stack job board built with Laravel. **hireMe** helps job seekers browse vacancies, find the right fit, and apply CV, with AI feedback that highlights gaps in their CV and what to improve. **jobBackoffice** is the management dashboard, gives admins and company owners the tools to manage the platform. Both apps share the same Eloquent models through the **shared** package.
 
