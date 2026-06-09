@@ -5,7 +5,6 @@ A full-stack job board built with Laravel. **hireMe** helps job seekers browse v
 ## 📲 Screenshots 
 
 HireMe:
-<img width="1792" height="999" alt="image" src="https://github.com/user-attachments/assets/17abd614-07a1-465d-a0b0-557024703084" />
 <img width="1792" height="997" alt="image" src="https://github.com/user-attachments/assets/76251226-5735-41e9-befd-fbd58286ce83" />
 <img width="1792" height="998" alt="image" src="https://github.com/user-attachments/assets/6b0559b0-7734-4e7b-8777-ea7e8049b6e7" />
 <img width="1792" height="997" alt="image" src="https://github.com/user-attachments/assets/3cb64753-5b01-475e-a33a-1027a4f1ac7c" />
