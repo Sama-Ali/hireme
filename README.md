@@ -10,8 +10,10 @@ HireMe:
 <img width="1792" height="997" alt="image" src="https://github.com/user-attachments/assets/3cb64753-5b01-475e-a33a-1027a4f1ac7c" />
 
 Dashoboard:
+- admin
 <img width="1792" height="996" alt="image" src="https://github.com/user-attachments/assets/e89dfa32-6506-4842-b20a-1802a4e34907" />
 <img width="1792" height="998" alt="image" src="https://github.com/user-attachments/assets/7668d8f5-7a43-421b-bc88-a7bcd9678f97" />
+- company owner
 <img width="1792" height="997" alt="image" src="https://github.com/user-attachments/assets/9b3e2d3b-1acf-4303-ad84-35fe964251fd" />
 <img width="1792" height="998" alt="image" src="https://github.com/user-attachments/assets/6d7f9479-8422-43b3-ad27-910b4ce0d4c1" />
 
